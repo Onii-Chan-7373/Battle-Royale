@@ -1,0 +1,14 @@
+name: Battleroyale
+version: ${project.version}
+main: me.beppo.battleroyale.Main
+api-version: 1.16
+depend: [ EcoEnchants ]
+authors: [ Onii_Chan ]
+description: Battle Royale
+
+commands:
+  battleroyal:
+    aliases: br
+  brstart:
+    aliases: br
+  brjoinable:
